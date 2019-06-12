@@ -1,0 +1,2 @@
+# javascript
+pengenalan .js
